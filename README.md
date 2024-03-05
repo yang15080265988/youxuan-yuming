@@ -1,4 +1,4 @@
-优选IP地址
+#优选IP地址
 
 简易CF优选IP: 
 移动: https://yd.xxxxxxxx.tk 或 https://cm.xxxxxxxx.tk 
