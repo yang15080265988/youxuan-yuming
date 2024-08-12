@@ -1,5 +1,5 @@
 #优选IP地址
-# Cloudflare Worker 的优选域名
+# Cloudflare Worker 的优选域名和IP
 优选域名如下
 
 - 移动: https://yd.xxxxxxxx.tk 或 https://cm.xxxxxxxx.tk 
